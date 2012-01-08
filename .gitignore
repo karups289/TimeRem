@@ -1,4 +1,7 @@
 .settings
 .project
 *log*
-bin*
+bin
+gen
+bin/*
+gen/*
